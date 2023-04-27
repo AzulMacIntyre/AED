@@ -1,6 +1,6 @@
 **Algoritmos y Estructuras de Datos**
-+ K1051 
-+ 2023 
-+ 208.061-8 
-+ Mac Intyre Asurey 
-+ Azul Ludmila
++ Curso: K1051 
++ Año: 2023 
++ Legajo: 208.061-8 
++ Apellido: Mac Intyre Asurey 
++ Nombre: Azul Ludmila
